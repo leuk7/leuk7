@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SANOU K Jean Luc</h1>
-<h3 align="center">I am passionated about aerospace and tech related things</h3>
+<h3 align="center">I am passionated about IT related things</h3>
 
 - 🌱 I’m currently learning **cybersecurity.**
 
